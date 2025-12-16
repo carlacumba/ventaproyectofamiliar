@@ -14,7 +14,7 @@ const venta = [
     category: "Muebles",
     price: 600,
     estado: "Bueno",
-    img: "imagenesventa/comedor.PNG", // Borré el ".."
+    img: "imagenesventa/comedor1.png", // Borré el ".."
     desc: `Juego de comedor de 6 sillas moderno hexagonal con tablero de vidrio central y base con espacio de almacenamiento.`,
   },
   {
